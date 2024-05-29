@@ -1,0 +1,15 @@
+header {
+  .img {
+    position: absolute;
+    width: 100wv;
+    height: 300px;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+  }
+  img {
+    width: 100%;
+    margin-top: -80px;
+    filter: brightness(0.2) opacity(0.9);
+  }
+}
